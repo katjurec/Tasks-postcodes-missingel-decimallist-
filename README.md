@@ -8,7 +8,7 @@ Data validation was not implemented. All input data should be entered exactly in
    First code: XX-XXX
    Second code: YY-YYY
 2) Task2:
-   [a,b,c,d,e], n
+   [a,b,c,d], n
 
 ## First problem
 
